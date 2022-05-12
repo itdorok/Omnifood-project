@@ -2,25 +2,25 @@
 
 #### 🩻 CSS
 
-### [\[Hero section\]](./omnifood--hero/README.md)
+### [\[Hero section\]](./omnifood--hero/hero.md)
 
-### [\[Featured-in / How / Meals / Testimonials section\]](./omnifood--meals/README.md)
+### [\[Featured-in / How / Meals / Testimonials section\]](./omnifood--meals/meals.md)
 
-### [\[CTA section\]](./omnifood--cta/README.md)
+### [\[CTA section\]](./omnifood--cta/cta.md)
 
-### [\[Query\]](./omnifood--query/README.md)
+### [\[Query\]](./omnifood--query/query.md)
 
 ### 🏃🏻‍♀️ javaScript
 
-### [\[Toggle nav bar\]](./omnifood--mobile-nav-bar/README.md)
+### [\[Toggle nav bar\]](./omnifood--mobile-nav-bar/mobile-nav.md)
 
-### [\[Sticky nav bar\]](./omnifood--sticky-nav/README.md)
+### [\[Sticky nav bar\]](./omnifood--sticky-nav/sticky-nav.md)
 
-### [\[Smooth scroll\]](./omnifood--smooth-scroll/README.md)
+### [\[Smooth scroll\]](./omnifood--smooth-scroll/smooth-scroll.md)
 
 ### 🔎 Optimization
 
-### [\[Optimization\]](./omnifood--optimization/README.md)
+### [\[Optimization\]](./omnifood--optimization/optimization.md)
 
 <br>
 
